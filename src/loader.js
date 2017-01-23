@@ -21,7 +21,7 @@ module.exports = function(source) {
   );
 
   logger.debug(`Hey, we're in DEBUG mode! Yabba dabba doo!`);
-  
+
   const queryOptions = parseQueryString(webpack.query);
   const queryOptionResources = queryOptions.resources && queryOptions.resources.split(',');
   const resourcesLocation = parseResources(queryOptionResources || webpack.options.sassResources);

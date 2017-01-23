@@ -2,7 +2,7 @@ export default function(queryString) {
   if (!queryString || queryString === '?') {
     return {};
   }
-  
+
   return queryString
     .slice(1)
     .split('&')
