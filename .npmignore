@@ -1,7 +1,3 @@
-src/
-test/
-scripts/
-example/
 *.log
 npm-debug.log*
 .babelrc
