@@ -105,3 +105,4 @@ MIT.
 
 * [react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial/), live example at [www.reactrails.com](http://www.reactrails.com/).
 * [bootstrap-loader](https://github.com/shakacode/bootstrap-loader/)
+
